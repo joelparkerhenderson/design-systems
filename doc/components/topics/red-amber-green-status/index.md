@@ -1,0 +1,11 @@
+# Red Amber Green (RAG) status
+
+The Red Amber Green (RAG) status UI/UX component is a visual status indicator
+that uses the traffic light color scheme—red, amber (yellow), and green—to
+represent different levels of status, performance, or urgency. Commonly used in
+dashboards, reports, and project tracking tools, it provides an at-a-glance
+understanding of how something is performing: green typically means everything
+is on track, amber signals caution or minor issues, and red indicates a critical
+problem that needs immediate attention. RAG status indicators enhance usability
+by delivering quick, intuitive feedback through universally understood colors,
+enabling users to assess situations rapidly and prioritize actions effectively.
